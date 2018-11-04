@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="H_managerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cirugia">
+    <Key>
+      <PropertyRef Name="Id_cirugia" />
+    </Key>
+    <Property Name="Id_cirugia" Type="int" Nullable="false" />
+    <Property Name="id_paciente" Type="int" Nullable="false" />
+    <Property Name="id_medico" Type="int" Nullable="false" />
+    <Property Name="data_alta" Type="datetime" Nullable="false" />
+    <Property Name="id_exames" Type="int" Nullable="false" />
+    <Property Name="data_entrada" Type="datetime2" Precision="7" Nullable="false" />
+    <Property Name="sala_cirugia" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="especificacao" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="prioridade" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="consultas">
+    <Key>
+      <PropertyRef Name="Id_consulta" />
+    </Key>
+    <Property Name="Id_consulta" Type="int" Nullable="false" />
+    <Property Name="id_utente" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_consulta" Type="datetime" Nullable="false" />
+    <Property Name="hora" Type="time" Precision="7" Nullable="false" />
+    <Property Name="nome_utente" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nome_medico" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="taxa_moderadora" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="prioridade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="obervacoes" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_emissao" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="diagnostico">
+    <Key>
+      <PropertyRef Name="Id_diagnostico" />
+    </Key>
+    <Property Name="Id_diagnostico" Type="int" Nullable="false" />
+    <Property Name="id_paciente" Type="int" Nullable="false" />
+    <Property Name="ficheiro" Type="image" Nullable="false" />
+    <Property Name="prioridade" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_medio" Type="int" Nullable="false" />
+    <Property Name="id_clinica" Type="int" Nullable="false" />
+    <Property Name="referencia" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="validade" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_emissao" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="empregados">
+    <Key>
+      <PropertyRef Name="Id_empregado" />
+    </Key>
+    <Property Name="Id_empregado" Type="int" Nullable="false" />
+    <Property Name="nome completo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_nascimento" Type="datetime" Nullable="false" />
+    <Property Name="genero" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nacionalidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="natalidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cod_postal" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="morada" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nif" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cc_bi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="estado_civil" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="segur_social" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="telefone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_emissao" Type="datetime" Nullable="false" />
+    <Property Name="data_validade" Type="datetime" Nullable="false" />
+    <Property Name="foto" Type="image" Nullable="false" />
+    <Property Name="cargo" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enfermeiro">
+    <Key>
+      <PropertyRef Name="Id_enfermerio" />
+    </Key>
+    <Property Name="Id_enfermerio" Type="int" Nullable="false" />
+    <Property Name="id_empregado" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="certificado" Type="image" Nullable="false" />
+    <Property Name="especialidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="salario" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_validade_contrato" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enternados">
+    <Key>
+      <PropertyRef Name="Id_enternado" />
+    </Key>
+    <Property Name="Id_enternado" Type="int" Nullable="false" />
+    <Property Name="id_paciente" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_entrada" Type="datetime" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="num_sala" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="num_cama" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_medico" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="prioridade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="relatorios" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_saida" Type="datetime" Nullable="false" />
+    <Property Name="cuidados" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="exames">
+    <Key>
+      <PropertyRef Name="Id_exame" />
+    </Key>
+    <Property Name="Id_exame" Type="int" Nullable="false" />
+    <Property Name="id_paciente" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_medico" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_exame" Type="datetime" Nullable="false" />
+    <Property Name="hora_exame" Type="time" Precision="7" Nullable="false" />
+    <Property Name="nome_utente" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nome_medico" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="prioridade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="taxa_moderadora" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="receita" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="oberv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="emissao" Type="datetime" Nullable="false" />
+    <Property Name="validade" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="gestao_financeira">
+    <Key>
+      <PropertyRef Name="Id_financa" />
+    </Key>
+    <Property Name="Id_financa" Type="int" Nullable="false" />
+    <Property Name="nome_produto" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="refe_pagamento" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="valor" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="quantidade" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_validade" Type="datetime" Nullable="false" />
+    <Property Name="descricao" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="iva" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_referencial" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="empresa" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="representante" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="contacto" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="emissao" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="laboratorista">
+    <Key>
+      <PropertyRef Name="Id_laborista" />
+    </Key>
+    <Property Name="Id_laborista" Type="int" Nullable="false" />
+    <Property Name="id_empregado" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_salario" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="especialidade" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="anos_experiencia" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="data_contrato" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="certificado" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="medicamentos">
+    <Key>
+      <PropertyRef Name="Id_medicamento" />
+    </Key>
+    <Property Name="Id_medicamento" Type="int" Nullable="false" />
+    <Property Name="nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="referencia" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="quantidade" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="preco" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="fabricante" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="efeitos_secundarios" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="especificacoes" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="receita_medica" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_emissao" Type="datetime" Nullable="false" />
+    <Property Name="data_validade" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="medico">
+    <Key>
+      <PropertyRef Name="Id_medico" />
+    </Key>
+    <Property Name="Id_medico" Type="int" Nullable="false" />
+    <Property Name="id_empregado" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_salario" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="certificado" Type="image" Nullable="false" />
+    <Property Name="anos_experiencia" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="especialidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="numero_sala" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pacientes">
+    <Key>
+      <PropertyRef Name="Id_paciente" />
+    </Key>
+    <Property Name="Id_paciente" Type="int" Nullable="false" />
+    <Property Name="nome completo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_ nascimento" Type="datetime" Nullable="false" />
+    <Property Name="genero" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cargo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="num_fiscal" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="cartao_cidadao" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="morada" Type="varbinary" MaxLength="50" Nullable="false" />
+    <Property Name="telefone" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="estado_civil" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="grupo_sanguineo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="seguranca_social" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="num_beneficiário" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_registo" Type="datetime" Nullable="false" />
+    <Property Name="id_medico" Type="int" Nullable="false" />
+    <Property Name="cod_alerta" Type="int" Nullable="false" />
+    <Property Name="foto" Type="image" Nullable="false" />
+    <Property Name="validade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nacionalidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="natalidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="conselho" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="codigo_postal" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="doencas_cronicas" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="prefil">
+    <Key>
+      <PropertyRef Name="Id_prefil" />
+    </Key>
+    <Property Name="Id_prefil" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_empregado" Type="int" />
+    <Property Name="cargo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="receitas">
+    <Key>
+      <PropertyRef Name="Id_receita" />
+    </Key>
+    <Property Name="Id_receita" Type="int" Nullable="false" />
+    <Property Name="id_medicamento" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_utente" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_medico" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_taxa_moderadora" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="ref_receita_medica" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="obervacoes" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_emissao" Type="datetime" Nullable="false" />
+    <Property Name="data_validade" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="recepcionista">
+    <Key>
+      <PropertyRef Name="id_recepcionista" />
+    </Key>
+    <Property Name="id_recepcionista" Type="int" Nullable="false" />
+    <Property Name="id_empregado" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="id_salario" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="certificado" Type="image" Nullable="false" />
+    <Property Name="anos_experiencia" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="especialidade" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="salarios">
+    <Key>
+      <PropertyRef Name="Id_salario" />
+    </Key>
+    <Property Name="Id_salario" Type="int" Nullable="false" />
+    <Property Name="id_empregado" Type="int" Nullable="false" />
+    <Property Name="nome_empregado" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="sal_liquido" Type="money" Nullable="false" />
+    <Property Name="sal_bruto" Type="money" Nullable="false" />
+    <Property Name="descontos" Type="money" Nullable="false" />
+    <Property Name="num_horas" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="horas_extras" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="ref_salarial" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="num_fiscal" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="met_pagamento" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="mes" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="emissao" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tratamentos">
+    <Key>
+      <PropertyRef Name="Id_tratamento" />
+    </Key>
+    <Property Name="Id_tratamento" Type="int" Nullable="false" />
+    <Property Name="id_utente" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="nome_enf" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_trat" Type="datetime" Nullable="false" />
+    <Property Name="hora_trat" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="prioridade" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="nome_utente" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="doenças" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="categoria" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="num_horas" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="obervs" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="data_emissao" Type="datetime" Nullable="false" />
+    <Property Name="hora" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="H_managerModelStoreContainer">
+    <EntitySet Name="cirugia" EntityType="Self.cirugia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="consultas" EntityType="Self.consultas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="diagnostico" EntityType="Self.diagnostico" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="empregados" EntityType="Self.empregados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="enfermeiro" EntityType="Self.enfermeiro" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="enternados" EntityType="Self.enternados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="exames" EntityType="Self.exames" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="gestao_financeira" EntityType="Self.gestao_financeira" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="laboratorista" EntityType="Self.laboratorista" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="medicamentos" EntityType="Self.medicamentos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="medico" EntityType="Self.medico" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pacientes" EntityType="Self.pacientes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prefil" EntityType="Self.prefil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="receitas" EntityType="Self.receitas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="recepcionista" EntityType="Self.recepcionista" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="salarios" EntityType="Self.salarios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tratamentos" EntityType="Self.tratamentos" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

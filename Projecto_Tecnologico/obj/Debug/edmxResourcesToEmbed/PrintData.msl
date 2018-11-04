@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="H_managerModelStoreContainer" CdmEntityContainer="H_managerEntities">
+    <EntitySetMapping Name="cirugia">
+      <EntityTypeMapping TypeName="H_managerModel.cirugia">
+        <MappingFragment StoreEntitySet="cirugia">
+          <ScalarProperty Name="Id_cirugia" ColumnName="Id_cirugia" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="data_alta" ColumnName="data_alta" />
+          <ScalarProperty Name="id_exames" ColumnName="id_exames" />
+          <ScalarProperty Name="data_entrada" ColumnName="data_entrada" />
+          <ScalarProperty Name="sala_cirugia" ColumnName="sala_cirugia" />
+          <ScalarProperty Name="especificacao" ColumnName="especificacao" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="consultas">
+      <EntityTypeMapping TypeName="H_managerModel.consultas">
+        <MappingFragment StoreEntitySet="consultas">
+          <ScalarProperty Name="Id_consulta" ColumnName="Id_consulta" />
+          <ScalarProperty Name="id_utente" ColumnName="id_utente" />
+          <ScalarProperty Name="data_consulta" ColumnName="data_consulta" />
+          <ScalarProperty Name="hora" ColumnName="hora" />
+          <ScalarProperty Name="nome_utente" ColumnName="nome_utente" />
+          <ScalarProperty Name="nome_medico" ColumnName="nome_medico" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="taxa_moderadora" ColumnName="taxa_moderadora" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+          <ScalarProperty Name="obervacoes" ColumnName="obervacoes" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="diagnostico">
+      <EntityTypeMapping TypeName="H_managerModel.diagnostico">
+        <MappingFragment StoreEntitySet="diagnostico">
+          <ScalarProperty Name="Id_diagnostico" ColumnName="Id_diagnostico" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="ficheiro" ColumnName="ficheiro" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+          <ScalarProperty Name="id_medio" ColumnName="id_medio" />
+          <ScalarProperty Name="id_clinica" ColumnName="id_clinica" />
+          <ScalarProperty Name="referencia" ColumnName="referencia" />
+          <ScalarProperty Name="validade" ColumnName="validade" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="empregados">
+      <EntityTypeMapping TypeName="H_managerModel.empregados">
+        <MappingFragment StoreEntitySet="empregados">
+          <ScalarProperty Name="Id_empregado" ColumnName="Id_empregado" />
+          <ScalarProperty Name="nome_completo" ColumnName="nome completo" />
+          <ScalarProperty Name="data_nascimento" ColumnName="data_nascimento" />
+          <ScalarProperty Name="genero" ColumnName="genero" />
+          <ScalarProperty Name="nacionalidade" ColumnName="nacionalidade" />
+          <ScalarProperty Name="natalidade" ColumnName="natalidade" />
+          <ScalarProperty Name="cod_postal" ColumnName="cod_postal" />
+          <ScalarProperty Name="morada" ColumnName="morada" />
+          <ScalarProperty Name="nif" ColumnName="nif" />
+          <ScalarProperty Name="cc_bi" ColumnName="cc_bi" />
+          <ScalarProperty Name="estado_civil" ColumnName="estado_civil" />
+          <ScalarProperty Name="segur_social" ColumnName="segur_social" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+          <ScalarProperty Name="data_validade" ColumnName="data_validade" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enfermeiro">
+      <EntityTypeMapping TypeName="H_managerModel.enfermeiro">
+        <MappingFragment StoreEntitySet="enfermeiro">
+          <ScalarProperty Name="Id_enfermerio" ColumnName="Id_enfermerio" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="certificado" ColumnName="certificado" />
+          <ScalarProperty Name="especialidade" ColumnName="especialidade" />
+          <ScalarProperty Name="salario" ColumnName="salario" />
+          <ScalarProperty Name="data_validade_contrato" ColumnName="data_validade_contrato" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enternados">
+      <EntityTypeMapping TypeName="H_managerModel.enternados">
+        <MappingFragment StoreEntitySet="enternados">
+          <ScalarProperty Name="Id_enternado" ColumnName="Id_enternado" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="data_entrada" ColumnName="data_entrada" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="num_sala" ColumnName="num_sala" />
+          <ScalarProperty Name="num_cama" ColumnName="num_cama" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+          <ScalarProperty Name="relatorios" ColumnName="relatorios" />
+          <ScalarProperty Name="data_saida" ColumnName="data_saida" />
+          <ScalarProperty Name="cuidados" ColumnName="cuidados" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="exames">
+      <EntityTypeMapping TypeName="H_managerModel.exames">
+        <MappingFragment StoreEntitySet="exames">
+          <ScalarProperty Name="Id_exame" ColumnName="Id_exame" />
+          <ScalarProperty Name="id_paciente" ColumnName="id_paciente" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="data_exame" ColumnName="data_exame" />
+          <ScalarProperty Name="hora_exame" ColumnName="hora_exame" />
+          <ScalarProperty Name="nome_utente" ColumnName="nome_utente" />
+          <ScalarProperty Name="nome_medico" ColumnName="nome_medico" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+          <ScalarProperty Name="taxa_moderadora" ColumnName="taxa_moderadora" />
+          <ScalarProperty Name="receita" ColumnName="receita" />
+          <ScalarProperty Name="oberv" ColumnName="oberv" />
+          <ScalarProperty Name="emissao" ColumnName="emissao" />
+          <ScalarProperty Name="validade" ColumnName="validade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="gestao_financeira">
+      <EntityTypeMapping TypeName="H_managerModel.gestao_financeira">
+        <MappingFragment StoreEntitySet="gestao_financeira">
+          <ScalarProperty Name="Id_financa" ColumnName="Id_financa" />
+          <ScalarProperty Name="nome_produto" ColumnName="nome_produto" />
+          <ScalarProperty Name="refe_pagamento" ColumnName="refe_pagamento" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+          <ScalarProperty Name="quantidade" ColumnName="quantidade" />
+          <ScalarProperty Name="data_validade" ColumnName="data_validade" />
+          <ScalarProperty Name="descricao" ColumnName="descricao" />
+          <ScalarProperty Name="iva" ColumnName="iva" />
+          <ScalarProperty Name="id_referencial" ColumnName="id_referencial" />
+          <ScalarProperty Name="empresa" ColumnName="empresa" />
+          <ScalarProperty Name="representante" ColumnName="representante" />
+          <ScalarProperty Name="contacto" ColumnName="contacto" />
+          <ScalarProperty Name="emissao" ColumnName="emissao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="laboratorista">
+      <EntityTypeMapping TypeName="H_managerModel.laboratorista">
+        <MappingFragment StoreEntitySet="laboratorista">
+          <ScalarProperty Name="Id_laborista" ColumnName="Id_laborista" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="id_salario" ColumnName="id_salario" />
+          <ScalarProperty Name="especialidade" ColumnName="especialidade" />
+          <ScalarProperty Name="anos_experiencia" ColumnName="anos_experiencia" />
+          <ScalarProperty Name="data_contrato" ColumnName="data_contrato" />
+          <ScalarProperty Name="certificado" ColumnName="certificado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="medicamentos">
+      <EntityTypeMapping TypeName="H_managerModel.medicamentos">
+        <MappingFragment StoreEntitySet="medicamentos">
+          <ScalarProperty Name="Id_medicamento" ColumnName="Id_medicamento" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="referencia" ColumnName="referencia" />
+          <ScalarProperty Name="quantidade" ColumnName="quantidade" />
+          <ScalarProperty Name="preco" ColumnName="preco" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="fabricante" ColumnName="fabricante" />
+          <ScalarProperty Name="efeitos_secundarios" ColumnName="efeitos_secundarios" />
+          <ScalarProperty Name="especificacoes" ColumnName="especificacoes" />
+          <ScalarProperty Name="receita_medica" ColumnName="receita_medica" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+          <ScalarProperty Name="data_validade" ColumnName="data_validade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="medico">
+      <EntityTypeMapping TypeName="H_managerModel.medico">
+        <MappingFragment StoreEntitySet="medico">
+          <ScalarProperty Name="Id_medico" ColumnName="Id_medico" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="id_salario" ColumnName="id_salario" />
+          <ScalarProperty Name="certificado" ColumnName="certificado" />
+          <ScalarProperty Name="anos_experiencia" ColumnName="anos_experiencia" />
+          <ScalarProperty Name="especialidade" ColumnName="especialidade" />
+          <ScalarProperty Name="numero_sala" ColumnName="numero_sala" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pacientes">
+      <EntityTypeMapping TypeName="H_managerModel.pacientes">
+        <MappingFragment StoreEntitySet="pacientes">
+          <ScalarProperty Name="Id_paciente" ColumnName="Id_paciente" />
+          <ScalarProperty Name="nome_completo" ColumnName="nome completo" />
+          <ScalarProperty Name="data__nascimento" ColumnName="data_ nascimento" />
+          <ScalarProperty Name="genero" ColumnName="genero" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+          <ScalarProperty Name="num_fiscal" ColumnName="num_fiscal" />
+          <ScalarProperty Name="cartao_cidadao" ColumnName="cartao_cidadao" />
+          <ScalarProperty Name="morada" ColumnName="morada" />
+          <ScalarProperty Name="telefone" ColumnName="telefone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="estado_civil" ColumnName="estado_civil" />
+          <ScalarProperty Name="grupo_sanguineo" ColumnName="grupo_sanguineo" />
+          <ScalarProperty Name="seguranca_social" ColumnName="seguranca_social" />
+          <ScalarProperty Name="num_beneficiário" ColumnName="num_beneficiário" />
+          <ScalarProperty Name="data_registo" ColumnName="data_registo" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="cod_alerta" ColumnName="cod_alerta" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="validade" ColumnName="validade" />
+          <ScalarProperty Name="nacionalidade" ColumnName="nacionalidade" />
+          <ScalarProperty Name="natalidade" ColumnName="natalidade" />
+          <ScalarProperty Name="conselho" ColumnName="conselho" />
+          <ScalarProperty Name="codigo_postal" ColumnName="codigo_postal" />
+          <ScalarProperty Name="doencas_cronicas" ColumnName="doencas_cronicas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prefil">
+      <EntityTypeMapping TypeName="H_managerModel.prefil">
+        <MappingFragment StoreEntitySet="prefil">
+          <ScalarProperty Name="Id_prefil" ColumnName="Id_prefil" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="receitas">
+      <EntityTypeMapping TypeName="H_managerModel.receitas">
+        <MappingFragment StoreEntitySet="receitas">
+          <ScalarProperty Name="Id_receita" ColumnName="Id_receita" />
+          <ScalarProperty Name="id_medicamento" ColumnName="id_medicamento" />
+          <ScalarProperty Name="id_utente" ColumnName="id_utente" />
+          <ScalarProperty Name="id_medico" ColumnName="id_medico" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="id_taxa_moderadora" ColumnName="id_taxa_moderadora" />
+          <ScalarProperty Name="ref_receita_medica" ColumnName="ref_receita_medica" />
+          <ScalarProperty Name="obervacoes" ColumnName="obervacoes" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+          <ScalarProperty Name="data_validade" ColumnName="data_validade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="recepcionista">
+      <EntityTypeMapping TypeName="H_managerModel.recepcionista">
+        <MappingFragment StoreEntitySet="recepcionista">
+          <ScalarProperty Name="id_recepcionista" ColumnName="id_recepcionista" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="id_salario" ColumnName="id_salario" />
+          <ScalarProperty Name="certificado" ColumnName="certificado" />
+          <ScalarProperty Name="anos_experiencia" ColumnName="anos_experiencia" />
+          <ScalarProperty Name="especialidade" ColumnName="especialidade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="salarios">
+      <EntityTypeMapping TypeName="H_managerModel.salarios">
+        <MappingFragment StoreEntitySet="salarios">
+          <ScalarProperty Name="Id_salario" ColumnName="Id_salario" />
+          <ScalarProperty Name="id_empregado" ColumnName="id_empregado" />
+          <ScalarProperty Name="nome_empregado" ColumnName="nome_empregado" />
+          <ScalarProperty Name="sal_liquido" ColumnName="sal_liquido" />
+          <ScalarProperty Name="sal_bruto" ColumnName="sal_bruto" />
+          <ScalarProperty Name="descontos" ColumnName="descontos" />
+          <ScalarProperty Name="num_horas" ColumnName="num_horas" />
+          <ScalarProperty Name="horas_extras" ColumnName="horas_extras" />
+          <ScalarProperty Name="ref_salarial" ColumnName="ref_salarial" />
+          <ScalarProperty Name="num_fiscal" ColumnName="num_fiscal" />
+          <ScalarProperty Name="met_pagamento" ColumnName="met_pagamento" />
+          <ScalarProperty Name="mes" ColumnName="mes" />
+          <ScalarProperty Name="emissao" ColumnName="emissao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tratamentos">
+      <EntityTypeMapping TypeName="H_managerModel.tratamentos">
+        <MappingFragment StoreEntitySet="tratamentos">
+          <ScalarProperty Name="Id_tratamento" ColumnName="Id_tratamento" />
+          <ScalarProperty Name="id_utente" ColumnName="id_utente" />
+          <ScalarProperty Name="nome_enf" ColumnName="nome_enf" />
+          <ScalarProperty Name="data_trat" ColumnName="data_trat" />
+          <ScalarProperty Name="hora_trat" ColumnName="hora_trat" />
+          <ScalarProperty Name="prioridade" ColumnName="prioridade" />
+          <ScalarProperty Name="nome_utente" ColumnName="nome_utente" />
+          <ScalarProperty Name="doenças" ColumnName="doenças" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+          <ScalarProperty Name="num_horas" ColumnName="num_horas" />
+          <ScalarProperty Name="obervs" ColumnName="obervs" />
+          <ScalarProperty Name="data_emissao" ColumnName="data_emissao" />
+          <ScalarProperty Name="hora" ColumnName="hora" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

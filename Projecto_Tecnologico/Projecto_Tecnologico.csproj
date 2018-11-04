@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DEC60A8-2214-4E10-AB7F-F16451D4DE0B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projecto_Tecnologico</RootNamespace>
+    <AssemblyName>Projecto_Tecnologico</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>ExportPDF\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>ExportPDF\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>ExportPDF\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admistradores\A_Configurações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Configurações.Designer.cs">
+      <DependentUpon>A_Configurações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Financiamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Financiamento.Designer.cs">
+      <DependentUpon>A_Financiamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_VerFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_VerFunc.Designer.cs">
+      <DependentUpon>A_VerFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_VerInformacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_VerInformacao.Designer.cs">
+      <DependentUpon>A_VerInformacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Medicamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Medicamentos.Designer.cs">
+      <DependentUpon>A_Medicamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Funcionarios.Designer.cs">
+      <DependentUpon>A_Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Salários.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Salários.Designer.cs">
+      <DependentUpon>A_Salários.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Utentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Utentes.Designer.cs">
+      <DependentUpon>A_Utentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\A_Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\A_Email.Designer.cs">
+      <DependentUpon>A_Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admistradores\NovoPrefil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admistradores\NovoPrefil.Designer.cs">
+      <DependentUpon>NovoPrefil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Appclose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appclose.Designer.cs">
+      <DependentUpon>Appclose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config.Designer.cs">
+      <DependentUpon>Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Email.Designer.cs">
+      <DependentUpon>E_Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Informações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Informações.Designer.cs">
+      <DependentUpon>E_Informações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Tratamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Tratamentos.Designer.cs">
+      <DependentUpon>E_Tratamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Laboratistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Laboratistas.Designer.cs">
+      <DependentUpon>Gestor_Laboratistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Analises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Analises.Designer.cs">
+      <DependentUpon>L_Analises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Configuraçoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Configuraçoes.Designer.cs">
+      <DependentUpon>L_Configuraçoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laboratoristas\L_EMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laboratoristas\L_EMail.Designer.cs">
+      <DependentUpon>L_EMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laboratoristas\L_Stock.Designer.cs">
+      <DependentUpon>L_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Analises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Analises.Designer.cs">
+      <DependentUpon>M_Analises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Email.Designer.cs">
+      <DependentUpon>M_Email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_Analises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_Analises.Designer.cs">
+      <DependentUpon>R_Analises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Informacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Informacao.Designer.cs">
+      <DependentUpon>M_Informacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_cirugia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_cirugia.Designer.cs">
+      <DependentUpon>R_cirugia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_mail.Designer.cs">
+      <DependentUpon>R_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_MarcarExames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_MarcarExames.Designer.cs">
+      <DependentUpon>R_MarcarExames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_VerInformacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_VerInformacao.Designer.cs">
+      <DependentUpon>R_VerInformacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQLDataBase\BLL.cs" />
+    <Compile Include="SQLDataBase\DAL.cs" />
+    <Compile Include="Enfermeiros\E_Configurações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enfermeiros\E_Configurações.Designer.cs">
+      <DependentUpon>E_Configurações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Admistradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Admistradores.Designer.cs">
+      <DependentUpon>Gestor_Admistradores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Enfermeiros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Enfermeiros.Designer.cs">
+      <DependentUpon>Gestor_Enfermeiros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Médicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Médicos.Designer.cs">
+      <DependentUpon>Gestor_Médicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Recepcionistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestores\Gestor_Recepcionistas.Designer.cs">
+      <DependentUpon>Gestor_Recepcionistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Configurações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Configurações.Designer.cs">
+      <DependentUpon>M_Configurações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Consultas.Designer.cs">
+      <DependentUpon>M_Consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos\M_Receitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos\M_Receitas.Designer.cs">
+      <DependentUpon>M_Receitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recepcionistas\R_Configuraçoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_Configuraçoes.Designer.cs">
+      <DependentUpon>R_Configuraçoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcionistas\R_Consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcionistas\R_Consultas.Designer.cs">
+      <DependentUpon>R_Consultas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admistradores\A_Configurações.resx">
+      <DependentUpon>A_Configurações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Financiamento.resx">
+      <DependentUpon>A_Financiamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Medicamentos.resx">
+      <DependentUpon>A_Medicamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Funcionarios.resx">
+      <DependentUpon>A_Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Salários.resx">
+      <DependentUpon>A_Salários.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Utentes.resx">
+      <DependentUpon>A_Utentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_VerFunc.resx">
+      <DependentUpon>A_VerFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_VerInformacao.resx">
+      <DependentUpon>A_VerInformacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\A_Email.resx">
+      <DependentUpon>A_Email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admistradores\NovoPrefil.resx">
+      <DependentUpon>NovoPrefil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appclose.resx">
+      <DependentUpon>Appclose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enfermeiros\E_Configurações.resx">
+      <DependentUpon>E_Configurações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enfermeiros\E_Email.resx">
+      <DependentUpon>E_Email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enfermeiros\E_Informações.resx">
+      <DependentUpon>E_Informações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enfermeiros\E_Tratamentos.resx">
+      <DependentUpon>E_Tratamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestores\Gestor_Admistradores.resx">
+      <DependentUpon>Gestor_Admistradores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestores\Gestor_Enfermeiros.resx">
+      <DependentUpon>Gestor_Enfermeiros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestores\Gestor_Laboratistas.resx">
+      <DependentUpon>Gestor_Laboratistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestores\Gestor_Médicos.resx">
+      <DependentUpon>Gestor_Médicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestores\Gestor_Recepcionistas.resx">
+      <DependentUpon>Gestor_Recepcionistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laboratoristas\L_Analises.resx">
+      <DependentUpon>L_Analises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laboratoristas\L_Configuraçoes.resx">
+      <DependentUpon>L_Configuraçoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laboratoristas\L_EMail.resx">
+      <DependentUpon>L_EMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laboratoristas\L_Stock.resx">
+      <DependentUpon>L_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Analises.resx">
+      <DependentUpon>M_Analises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Email.resx">
+      <DependentUpon>M_Email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_Analises.resx">
+      <DependentUpon>R_Analises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Configurações.resx">
+      <DependentUpon>M_Configurações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Consultas.resx">
+      <DependentUpon>M_Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Informacao.resx">
+      <DependentUpon>M_Informacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos\M_Receitas.resx">
+      <DependentUpon>M_Receitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Recepcionistas\R_cirugia.resx">
+      <DependentUpon>R_cirugia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_Configuraçoes.resx">
+      <DependentUpon>R_Configuraçoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_Consultas.resx">
+      <DependentUpon>R_Consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_mail.resx">
+      <DependentUpon>R_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_MarcarExames.resx">
+      <DependentUpon>R_MarcarExames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcionistas\R_VerInformacao.resx">
+      <DependentUpon>R_VerInformacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="H_manager.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="H_manager_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>H_manager.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

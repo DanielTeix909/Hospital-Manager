@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="H_managerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cirugia">
+    <Key>
+      <PropertyRef Name="Id_cirugia" />
+    </Key>
+    <Property Name="Id_cirugia" Type="Int32" Nullable="false" />
+    <Property Name="id_paciente" Type="Int32" Nullable="false" />
+    <Property Name="id_medico" Type="Int32" Nullable="false" />
+    <Property Name="data_alta" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="id_exames" Type="Int32" Nullable="false" />
+    <Property Name="data_entrada" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="sala_cirugia" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="especificacao" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="consultas">
+    <Key>
+      <PropertyRef Name="Id_consulta" />
+    </Key>
+    <Property Name="Id_consulta" Type="Int32" Nullable="false" />
+    <Property Name="id_utente" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_consulta" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="hora" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="nome_utente" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nome_medico" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="taxa_moderadora" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="obervacoes" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="diagnostico">
+    <Key>
+      <PropertyRef Name="Id_diagnostico" />
+    </Key>
+    <Property Name="Id_diagnostico" Type="Int32" Nullable="false" />
+    <Property Name="id_paciente" Type="Int32" Nullable="false" />
+    <Property Name="ficheiro" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_medio" Type="Int32" Nullable="false" />
+    <Property Name="id_clinica" Type="Int32" Nullable="false" />
+    <Property Name="referencia" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="validade" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="empregados">
+    <Key>
+      <PropertyRef Name="Id_empregado" />
+    </Key>
+    <Property Name="Id_empregado" Type="Int32" Nullable="false" />
+    <Property Name="nome_completo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_nascimento" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="genero" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nacionalidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="natalidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cod_postal" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="morada" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nif" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cc_bi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="estado_civil" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="segur_social" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="telefone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="data_validade" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="foto" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="cargo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enfermeiro">
+    <Key>
+      <PropertyRef Name="Id_enfermerio" />
+    </Key>
+    <Property Name="Id_enfermerio" Type="Int32" Nullable="false" />
+    <Property Name="id_empregado" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="certificado" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="especialidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="salario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_validade_contrato" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enternados">
+    <Key>
+      <PropertyRef Name="Id_enternado" />
+    </Key>
+    <Property Name="Id_enternado" Type="Int32" Nullable="false" />
+    <Property Name="id_paciente" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_entrada" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="num_sala" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="num_cama" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_medico" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="relatorios" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_saida" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cuidados" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="exames">
+    <Key>
+      <PropertyRef Name="Id_exame" />
+    </Key>
+    <Property Name="Id_exame" Type="Int32" Nullable="false" />
+    <Property Name="id_paciente" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_medico" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_exame" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="hora_exame" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="nome_utente" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nome_medico" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="taxa_moderadora" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="receita" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="oberv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="emissao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="validade" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="gestao_financeira">
+    <Key>
+      <PropertyRef Name="Id_financa" />
+    </Key>
+    <Property Name="Id_financa" Type="Int32" Nullable="false" />
+    <Property Name="nome_produto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="refe_pagamento" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="valor" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="quantidade" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_validade" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="descricao" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="iva" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_referencial" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="empresa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="representante" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="contacto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="emissao" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="laboratorista">
+    <Key>
+      <PropertyRef Name="Id_laborista" />
+    </Key>
+    <Property Name="Id_laborista" Type="Int32" Nullable="false" />
+    <Property Name="id_empregado" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_salario" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="especialidade" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="anos_experiencia" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="data_contrato" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="certificado" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="medicamentos">
+    <Key>
+      <PropertyRef Name="Id_medicamento" />
+    </Key>
+    <Property Name="Id_medicamento" Type="Int32" Nullable="false" />
+    <Property Name="nome" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="referencia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="quantidade" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="preco" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="fabricante" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="efeitos_secundarios" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="especificacoes" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="receita_medica" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="data_validade" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="medico">
+    <Key>
+      <PropertyRef Name="Id_medico" />
+    </Key>
+    <Property Name="Id_medico" Type="Int32" Nullable="false" />
+    <Property Name="id_empregado" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_salario" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="certificado" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="anos_experiencia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="especialidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="numero_sala" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pacientes">
+    <Key>
+      <PropertyRef Name="Id_paciente" />
+    </Key>
+    <Property Name="Id_paciente" Type="Int32" Nullable="false" />
+    <Property Name="nome_completo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data__nascimento" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="genero" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cargo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="num_fiscal" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="cartao_cidadao" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="morada" Type="Binary" MaxLength="50" FixedLength="false" Nullable="false" />
+    <Property Name="telefone" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="estado_civil" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="grupo_sanguineo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="seguranca_social" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="num_beneficiário" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_registo" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="id_medico" Type="Int32" Nullable="false" />
+    <Property Name="cod_alerta" Type="Int32" Nullable="false" />
+    <Property Name="foto" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="validade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nacionalidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="natalidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="conselho" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="codigo_postal" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="doencas_cronicas" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="prefil">
+    <Key>
+      <PropertyRef Name="Id_prefil" />
+    </Key>
+    <Property Name="Id_prefil" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_empregado" Type="Int32" />
+    <Property Name="cargo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="receitas">
+    <Key>
+      <PropertyRef Name="Id_receita" />
+    </Key>
+    <Property Name="Id_receita" Type="Int32" Nullable="false" />
+    <Property Name="id_medicamento" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_utente" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_medico" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_taxa_moderadora" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ref_receita_medica" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="obervacoes" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="data_validade" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="recepcionista">
+    <Key>
+      <PropertyRef Name="id_recepcionista" />
+    </Key>
+    <Property Name="id_recepcionista" Type="Int32" Nullable="false" />
+    <Property Name="id_empregado" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="id_salario" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="certificado" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="anos_experiencia" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="especialidade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="salarios">
+    <Key>
+      <PropertyRef Name="Id_salario" />
+    </Key>
+    <Property Name="Id_salario" Type="Int32" Nullable="false" />
+    <Property Name="id_empregado" Type="Int32" Nullable="false" />
+    <Property Name="nome_empregado" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sal_liquido" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="sal_bruto" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="descontos" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="num_horas" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="horas_extras" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ref_salarial" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="num_fiscal" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="met_pagamento" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="mes" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="emissao" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="tratamentos">
+    <Key>
+      <PropertyRef Name="Id_tratamento" />
+    </Key>
+    <Property Name="Id_tratamento" Type="Int32" Nullable="false" />
+    <Property Name="id_utente" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="nome_enf" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_trat" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="hora_trat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prioridade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nome_utente" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="doenças" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="num_horas" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="obervs" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="data_emissao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="hora" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="H_managerEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cirugia" EntityType="Self.cirugia" />
+    <EntitySet Name="consultas" EntityType="Self.consultas" />
+    <EntitySet Name="diagnostico" EntityType="Self.diagnostico" />
+    <EntitySet Name="empregados" EntityType="Self.empregados" />
+    <EntitySet Name="enfermeiro" EntityType="Self.enfermeiro" />
+    <EntitySet Name="enternados" EntityType="Self.enternados" />
+    <EntitySet Name="exames" EntityType="Self.exames" />
+    <EntitySet Name="gestao_financeira" EntityType="Self.gestao_financeira" />
+    <EntitySet Name="laboratorista" EntityType="Self.laboratorista" />
+    <EntitySet Name="medicamentos" EntityType="Self.medicamentos" />
+    <EntitySet Name="medico" EntityType="Self.medico" />
+    <EntitySet Name="pacientes" EntityType="Self.pacientes" />
+    <EntitySet Name="prefil" EntityType="Self.prefil" />
+    <EntitySet Name="receitas" EntityType="Self.receitas" />
+    <EntitySet Name="recepcionista" EntityType="Self.recepcionista" />
+    <EntitySet Name="salarios" EntityType="Self.salarios" />
+    <EntitySet Name="tratamentos" EntityType="Self.tratamentos" />
+  </EntityContainer>
+</Schema>

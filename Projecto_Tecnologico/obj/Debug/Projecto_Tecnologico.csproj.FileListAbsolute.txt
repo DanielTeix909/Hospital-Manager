@@ -1,0 +1,948 @@
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Calendário.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Calendário.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+E:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Calendário.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Calendário.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Calendario.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+C:\Users\Corvo\Desktop\Projecto Tecnologico VF\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Calendario.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Projecto_Tecnologico\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+E:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_financiamento.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerUtentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_VerExame.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Calendario.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcaExame.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Utentes.resources
+D:\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Calendário.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Calendario.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Tarefas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Calendario.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_CalendarioConsultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager Backup\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+C:\Users\Daniel Teixeira\Desktop\BackUp\Dropbox\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+C:\Users\Daniel Teixeira\Desktop\BackUp\Dropbox\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+C:\Users\Daniel Teixeira\Desktop\BackUp\Dropbox\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Daniel 13.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_CalendarioConsultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFuncionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Calendário.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Calendario.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Tarefas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Calendário.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Exames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Calendario.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Cirugia.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_TiposTratamentos.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFuncionarios.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Cirugia.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.E_Cliente.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Tarefas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.ExportPDF.CriarPDF.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Calendario.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Tarefas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_VerMarcacoes.resources
+U:\Daniel 14.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 20.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 20.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.pdfa.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xtra.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_historico.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFuncionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.E_Cliente.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.E_Servidor.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.ExportPDF.CriarPDF.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Horarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_VerMarcacoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 24.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+U:\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+U:\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+U:\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+U:\Daniel 26.06.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_historico.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFuncionarios.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.Enfer_Email.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.L_Mail.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.M_Email.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.R_Email.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_VerMarcacoes.resources
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+E:\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_historico.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFuncionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.Enfer_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.L_Mail.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.M_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.R_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_VerMarcacoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 27.06.2016 v2\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+D:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+E:\Cloud Storage\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 04.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 05.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+F:\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+F:\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_pacienteInfo.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+C:\Users\Daniel Teixeira\Desktop\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Google Drive\Trabalhos de Escola\Trabalho de Escola 2º Ano\Projecto Tecnologico\Dropbox\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+D:\Daniel 06.07.2016\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe.config
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.ResolveComReference.cache
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.exe
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.pdb
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Configurações.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_Financiamento.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Medicamentos.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Funcionarios.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Salários.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.A_Utentes.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerFunc.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.A_VerInformacao.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Email_Sys.A_Email.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Admistradores.NovoPrefil.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Appclose.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.E_Configurações.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Email.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Informações.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Enfermeiros.E_Tratamentos.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Admistradores.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Enfermeiros.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestores.Gestor_Laboratistas.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Médicos.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Gestor_Recepcionistas.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Analises.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Configuraçoes.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratoristas.L_EMail.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Laboratistas.L_Stock.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Login.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Analises.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Email.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_Analises.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Configurações.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Consultas.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Medicos.M_Informacao.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.M_Receitas.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Config.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Properties.Resources.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_cirugia.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Configuraçoes.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.R_Consultas.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_mail.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_MarcarExames.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.Recepcionistas.R_VerInformacao.resources
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\obj\Debug\Projecto_Tecnologico.csproj.GenerateResource.Cache
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager.mdf
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\H_manager_log.ldf
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.exe
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\Projecto_Tecnologico.pdb
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.dll
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.dll
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.xml
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\itextsharp.xml
+C:\Users\Daniel Teixeira\Dropbox\Dropbox\Projecto Tecnologico Final 2ºAno\Hospital Manager\Projecto_Tecnologico\bin\Debug\PagedList.xml
